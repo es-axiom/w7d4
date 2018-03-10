@@ -1,8 +1,8 @@
-##Pokedex
+## Pokedex
 
-###Ventures into React / Redux
+### Ventures into React / Redux
 
-A fun project combining the wonderful world of Pokemon(sters) with React components and Redux state.
+A fun little project combining the wonderful world of Pokemon(sters) with React components and Redux state.
 
 __Week 7 Day 4 - App Academy__
 
@@ -10,7 +10,7 @@ __Week 7 Day 4 - App Academy__
 - Ignoring `.js` and `.jsx` file extensions to clean up imports.
 - Using source-maps to map erros to their corresponding line in the original pre-transpiled/minified code.
 
-```
+```javascript
 const path = require('path');
 
 module.exports = {
